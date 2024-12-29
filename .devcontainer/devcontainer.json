@@ -1,0 +1,16 @@
+{
+  "name": "Dev Container",
+  "build": { "dockerfile": "Dockerfile" },
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
+        "GitHub.copilot-chat",
+        "tamasfe.even-better-toml"
+      ]
+    }
+  },
+  "hostRequirements": { "cpus": 2, "memory": "8gb" }
+}
