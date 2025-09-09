@@ -2,4 +2,4 @@ Hi there 👋
 
 I love Rust.
 
-More about me on [my portfolio site](https://your-portfolio-link.com).
+More about me on [my portfolio site](https://www.ikuma.cloud/about).
